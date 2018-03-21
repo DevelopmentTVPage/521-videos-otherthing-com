@@ -1,0 +1,15 @@
+{
+    "title": "Other Thing",
+    "baseURL": "https:\/\/videos.otherthing.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758904",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "otherthing.com"
+    }
+}
